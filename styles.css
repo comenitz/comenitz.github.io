@@ -12,3 +12,8 @@ h1 {
     background-attachment: scroll;
     background-size: cover;
 }
+
+.headline {
+    font-size: 14px;
+    font-weight: bold;
+}
